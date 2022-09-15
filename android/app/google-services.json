@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561522285489",
+    "project_id": "easynema",
+    "storage_bucket": "easynema.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561522285489:android:c7c6332c68a7e51464bb90",
+        "android_client_info": {
+          "package_name": "com.example.easynema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561522285489-f4b8n5jf67er7bluarkg7svu56m92lpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW-QVQ8iuw7BAXJCFkxZDnUV8GNyQDh9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561522285489-f4b8n5jf67er7bluarkg7svu56m92lpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
